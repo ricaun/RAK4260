@@ -6,9 +6,9 @@
 
 ## Download File
 
-* <a rel="eagle" href="file/RAK4260.lbr">Eagle Libray</a>
+* <a rel="eagle" href="https://github.com/ricaun/RAK4260/raw/master/file/RAK4260.lbr" download target="_blank">Eagle Libray</a>
 * <a rel="fusion" href="https://a360.co/2rBIWIx">Fusion 360</a>
-* <a rel="step" href="file/RAK4260.step">Step</a>
+* <a rel="step" href="https://github.com/ricaun/RAK4260/raw/master/file/RAK4260.step" download target="_blank">Step</a>
 
 ----
 <br>
