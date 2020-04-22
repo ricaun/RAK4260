@@ -2,7 +2,7 @@
 
 [RAK4260][1] LoRaWAN module from RAKwireless.
 
-<img src="image/RAK4260.JPG" alt="RAK4260" width="50%">
+<img src="image/RAK4260.jpg" alt="RAK4260" width="50%">
 
 ## Download File
 
